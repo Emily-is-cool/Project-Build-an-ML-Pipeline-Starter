@@ -6,6 +6,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project URL for wandb.ai
+
+https://wandb.ai/emilybrune-western-governors-university/nyc_airbnb/overview 
+
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
