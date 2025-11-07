@@ -10,6 +10,9 @@ In this project you will build such a pipeline.
 
 https://wandb.ai/emilybrune-western-governors-university/nyc_airbnb/overview 
 
+or if that does not work, I have generated a report for sharing:
+
+https://wandb.ai/emilybrune-western-governors-university/nyc_airbnb/reports/NYC_airbnb-Project--VmlldzoxNDk2OTU4Mg?accessToken=6qfi4yq9tmbar5o6krth9u2ejlltgcjfetan1wfs4vgghmxla97199jq11zx5zlc
 
 ## Table of contents
 
